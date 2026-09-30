@@ -6,7 +6,8 @@
 Można go nosić na pendrivie razem z plikiem sejfu.
 
 > Wcześniej program nazywał się **pCrypt**. Pliki `pcrypt.vault` i `pcrypt.ini` są odczytywane bez zmian —
-> wystarczy położyć `Lockvale.exe` obok nich.
+> wystarczy położyć `Lockvale.exe` obok nich. Starsze sejfy są po pierwszym odblokowaniu przenoszone na Argon2id
+> (kopia oryginału: `*.sejf1.bak`).
 
 ![Lockvale](screenshots/3-szczegoly.png)
 
@@ -23,7 +24,8 @@ Wymagania: Windows 10 lub 11 (.NET Framework 4.8 jest wbudowany w system).
 
 ## Najważniejsze funkcje
 
-- Szyfrowanie **AES-256** + **HMAC-SHA256**, klucz z hasła głównego przez **PBKDF2-SHA256** (600 000 iteracji).
+- Szyfrowanie **AES-256** + **HMAC-SHA256**, klucz z hasła głównego przez **Argon2id** (64 MB pamięci na każdą próbę).
+- Eksport do CSV, żeby dane nigdy nie były zamknięte tylko w Lockvale.
 - Dane tylko lokalnie, w jednym pliku `.vault` — bez chmury i bez kont.
 - Generator haseł, wyszukiwarka, historia poprzedniego hasła dla każdego wpisu.
 - Kopiowanie do schowka z automatycznym czyszczeniem po 30 s (bez historii schowka Windows).
@@ -83,7 +85,8 @@ The app uses the Windows display language (Polish or English); you can change it
 
 ### Features
 
-- **AES-256** + **HMAC-SHA256** encryption, key derived from the master password with **PBKDF2-SHA256** (600,000 iterations).
+- **AES-256** + **HMAC-SHA256** encryption, key derived from the master password with **Argon2id** (64 MB of memory per guess).
+- Export to CSV, so your data is never locked into Lockvale.
 - Your data stays local, in a single `.vault` file — no cloud, no accounts.
 - Password generator (14–48 characters), search, organizations, previous password kept for every entry.
 - Copy to clipboard with automatic clearing after 30 s (excluded from Windows clipboard history).
