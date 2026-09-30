@@ -1,0 +1,116 @@
+pCrypt — LICENCJA UŻYTKOWNIKA (FREEWARE)
+Copyright © 2026 by Michał Surdyka. Wszelkie prawa zastrzeżone.
+
+(English version below.)
+
+1. POSTANOWIENIA OGÓLNE
+1.1. Niniejsza licencja określa zasady korzystania z programu pCrypt (dalej: „Program”), tj. pliku pCrypt.exe wraz z jego aktualizacjami i dokumentacją.
+1.2. Twórcą Programu i licencjodawcą jest Michał Surdyka (dalej: „Autor”).
+1.3. Pobierając, instalując, kopiując lub uruchamiając Program, akceptujesz warunki tej licencji. Jeśli ich nie akceptujesz, nie korzystaj z Programu i usuń jego kopie.
+
+2. UDZIELENIE LICENCJI
+2.1. Autor udziela Ci nieodpłatnej, niewyłącznej, nieograniczonej terytorialnie i czasowo licencji na korzystanie z Programu w celach prywatnych i zawodowych, w tym w firmie, na dowolnej liczbie urządzeń.
+2.2. Program jest licencjonowany, a nie sprzedawany. Wszelkie prawa niewymienione wprost w tej licencji pozostają przy Autorze.
+
+3. ROZPOWSZECHNIANIE
+3.1. Wolno bezpłatnie kopiować i przekazywać innym osobom niezmieniony plik pCrypt.exe, pod warunkiem że nie usuwasz z niego informacji o prawach autorskich, a odbiorca otrzymuje go na warunkach tej licencji.
+3.2. Oficjalnym źródłem Programu jest: https://github.com/Crisples/pcrypt-releases
+Pliki pobrane z innych źródeł mogą być zmienione — Autor nie odpowiada za takie kopie.
+
+4. OGRANICZENIA
+Nie wolno:
+a) sprzedawać, wynajmować ani użyczać Programu odpłatnie, ani pobierać opłat za jego udostępnienie;
+b) modyfikować, tłumaczyć, dekompilować ani deasemblować Programu — z wyjątkiem przypadków, w których bezwzględnie obowiązujące przepisy prawa wyraźnie na to zezwalają (w szczególności art. 75 ust. 2 ustawy o prawie autorskim i prawach pokrewnych);
+c) rozpowszechniać zmienionych wersji Programu ani programów na nim opartych;
+d) usuwać ani zmieniać oznaczeń autorskich, nazwy Programu i informacji o licencji;
+e) używać nazwy „pCrypt” ani imienia i nazwiska Autora do oznaczania innych programów lub zmienionych wersji ani przedstawiać się jako twórca Programu;
+f) omijać zabezpieczeń Programu, w tym weryfikacji podpisu aktualizacji.
+
+5. SKŁADNIKI ZEWNĘTRZNE
+Program zawiera czcionki udostępniane na licencji SIL Open Font License 1.1:
+- Nunito — Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)
+- DM Mono — Copyright 2020 The DM Mono Project Authors (https://www.github.com/googlefonts/dm-mono)
+Do tych czcionek stosuje się wyłącznie licencja SIL OFL 1.1, której pełny tekst jest dostępny w Programie (stopka → „Licencja”) oraz na stronie https://openfontlicense.org. Niniejsza licencja nie ogranicza praw wynikających z licencji OFL.
+
+6. DANE I BEZPIECZEŃSTWO
+6.1. Program przechowuje dane wyłącznie lokalnie, w pliku sejfu zaszyfrowanym Twoim hasłem głównym. Autor nie ma dostępu do Twoich danych i ich nie gromadzi.
+6.2. Hasła głównego nie da się odzyskać. Jego utrata oznacza utratę dostępu do danych w sejfie. Odpowiadasz za zapamiętanie hasła głównego i za regularne kopie zapasowe pliku sejfu.
+6.3. Program łączy się z internetem wyłącznie w celu sprawdzenia i pobrania aktualizacji z serwisu GitHub (serwis widzi przy tym Twój adres IP i wersję Programu). Można to wyłączyć wpisem aktualizacje=0 w pliku pcrypt.ini.
+
+7. BRAK GWARANCJI
+Program jest udostępniany nieodpłatnie, w stanie „takim, jaki jest” („AS IS”), bez jakichkolwiek gwarancji, wyraźnych ani dorozumianych, w tym gwarancji przydatności do określonego celu, bezbłędności lub nieprzerwanego działania. W zakresie dozwolonym przez prawo wyłącza się odpowiedzialność z tytułu rękojmi.
+
+8. OGRANICZENIE ODPOWIEDZIALNOŚCI
+8.1. W najszerszym zakresie dozwolonym przez prawo Autor nie ponosi odpowiedzialności za jakiekolwiek szkody wynikające z korzystania z Programu lub niemożności korzystania z niego, w szczególności za utratę danych lub haseł, utracone korzyści czy przerwy w działalności.
+8.2. Ograniczenie to nie dotyczy szkód wyrządzonych umyślnie ani innych przypadków, w których wyłączenie lub ograniczenie odpowiedzialności jest niedopuszczalne, i nie ogranicza praw konsumenta wynikających z bezwzględnie obowiązujących przepisów.
+
+9. AKTUALIZACJE I WSPARCIE
+Licencja obejmuje także aktualizacje Programu. Autor nie jest zobowiązany do dostarczania aktualizacji ani wsparcia technicznego i może w każdej chwili zakończyć rozwój Programu.
+
+10. WYGAŚNIĘCIE LICENCJI
+Licencja wygasa automatycznie w razie naruszenia jej warunków. Po wygaśnięciu należy zaprzestać korzystania z Programu i usunąć wszystkie jego kopie.
+
+11. PRAWO WŁAŚCIWE
+Licencja podlega prawu polskiemu. Wybór prawa nie pozbawia konsumenta ochrony, jaką zapewniają mu bezwzględnie obowiązujące przepisy kraju jego zwykłego pobytu. W razie rozbieżności między wersją polską a angielską rozstrzyga wersja polska.
+
+12. KONTAKT
+Zgłoszenia i pytania: https://github.com/Crisples/pcrypt-releases/issues
+
+
+=====================================================================================================
+
+pCrypt — END USER LICENSE (FREEWARE)
+Copyright © 2026 by Michał Surdyka. All rights reserved.
+
+1. GENERAL
+1.1. This license governs the use of pCrypt (the "Software"), i.e. the file pCrypt.exe together with its updates and documentation.
+1.2. The author and licensor of the Software is Michał Surdyka (the "Author").
+1.3. By downloading, installing, copying or running the Software you accept this license. If you do not accept it, do not use the Software and delete all copies.
+
+2. GRANT OF LICENSE
+2.1. The Author grants you a free of charge, non-exclusive, worldwide and perpetual license to use the Software for private and professional purposes, including within a company, on any number of devices.
+2.2. The Software is licensed, not sold. All rights not expressly granted remain with the Author.
+
+3. REDISTRIBUTION
+3.1. You may copy and give the unmodified pCrypt.exe file to others free of charge, provided you do not remove its copyright notices and the recipient receives it under this license.
+3.2. The official source of the Software is: https://github.com/Crisples/pcrypt-releases
+Files obtained elsewhere may have been altered; the Author is not responsible for such copies.
+
+4. RESTRICTIONS
+You may not:
+a) sell, rent or lend the Software for a fee, or charge for making it available;
+b) modify, translate, decompile or disassemble the Software, except where mandatory law expressly permits it;
+c) distribute modified versions of the Software or programs based on it;
+d) remove or alter copyright notices, the Software's name or license information;
+e) use the name "pCrypt" or the Author's name for other programs or modified versions, or present yourself as the author of the Software;
+f) circumvent the Software's security measures, including update signature verification.
+
+5. THIRD-PARTY COMPONENTS
+The Software contains fonts licensed under the SIL Open Font License 1.1:
+- Nunito — Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)
+- DM Mono — Copyright 2020 The DM Mono Project Authors (https://www.github.com/googlefonts/dm-mono)
+These fonts are governed solely by the SIL OFL 1.1, whose full text is available in the Software (footer → "Licencja") and at https://openfontlicense.org. This license does not restrict any rights granted by the OFL.
+
+6. DATA AND SECURITY
+6.1. The Software stores data only locally, in a vault file encrypted with your master password. The Author has no access to your data and does not collect it.
+6.2. The master password cannot be recovered. Losing it means losing access to the data in the vault. You are responsible for remembering your master password and for regular backups of the vault file.
+6.3. The Software connects to the internet only to check for and download updates from GitHub (which can see your IP address and the Software version). This can be disabled with aktualizacje=0 in pcrypt.ini.
+
+7. NO WARRANTY
+The Software is provided free of charge "AS IS", without warranty of any kind, express or implied, including fitness for a particular purpose, freedom from errors or uninterrupted operation. To the extent permitted by law, statutory warranty (rękojmia) is excluded.
+
+8. LIMITATION OF LIABILITY
+8.1. To the fullest extent permitted by law, the Author shall not be liable for any damages arising from the use of or inability to use the Software, in particular loss of data or passwords, lost profits or business interruption.
+8.2. This limitation does not apply to damage caused intentionally or to other cases where exclusion or limitation of liability is not permitted, and it does not restrict consumer rights under mandatory law.
+
+9. UPDATES AND SUPPORT
+This license also covers updates. The Author is not obliged to provide updates or support and may discontinue the Software at any time.
+
+10. TERMINATION
+This license terminates automatically if you breach its terms. Upon termination you must stop using the Software and delete all copies.
+
+11. GOVERNING LAW
+This license is governed by Polish law. This choice of law does not deprive consumers of the protection of mandatory provisions of the country of their habitual residence. In case of discrepancies between the Polish and English versions, the Polish version prevails.
+
+12. CONTACT
+Reports and questions: https://github.com/Crisples/pcrypt-releases/issues
