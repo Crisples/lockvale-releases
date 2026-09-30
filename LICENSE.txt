@@ -1,10 +1,10 @@
-pCrypt — LICENCJA UŻYTKOWNIKA (FREEWARE)
+Lockvale — LICENCJA UŻYTKOWNIKA (FREEWARE)
 Copyright © 2026 by Michał Surdyka. Wszelkie prawa zastrzeżone.
 
 (English version below.)
 
 1. POSTANOWIENIA OGÓLNE
-1.1. Niniejsza licencja określa zasady korzystania z programu pCrypt (dalej: „Program”), tj. pliku pCrypt.exe wraz z jego aktualizacjami i dokumentacją.
+1.1. Niniejsza licencja określa zasady korzystania z programu Lockvale (dalej: „Program”), tj. pliku Lockvale.exe wraz z jego aktualizacjami i dokumentacją.
 1.2. Twórcą Programu i licencjodawcą jest Michał Surdyka (dalej: „Autor”).
 1.3. Pobierając, instalując, kopiując lub uruchamiając Program, akceptujesz warunki tej licencji. Jeśli ich nie akceptujesz, nie korzystaj z Programu i usuń jego kopie.
 
@@ -13,8 +13,8 @@ Copyright © 2026 by Michał Surdyka. Wszelkie prawa zastrzeżone.
 2.2. Program jest licencjonowany, a nie sprzedawany. Wszelkie prawa niewymienione wprost w tej licencji pozostają przy Autorze.
 
 3. ROZPOWSZECHNIANIE
-3.1. Wolno bezpłatnie kopiować i przekazywać innym osobom niezmieniony plik pCrypt.exe, pod warunkiem że nie usuwasz z niego informacji o prawach autorskich, a odbiorca otrzymuje go na warunkach tej licencji.
-3.2. Oficjalnym źródłem Programu jest: https://github.com/Crisples/pcrypt-releases
+3.1. Wolno bezpłatnie kopiować i przekazywać innym osobom niezmieniony plik Lockvale.exe, pod warunkiem że nie usuwasz z niego informacji o prawach autorskich, a odbiorca otrzymuje go na warunkach tej licencji.
+3.2. Oficjalnym źródłem Programu jest: https://github.com/Crisples/lockvale-releases
 Pliki pobrane z innych źródeł mogą być zmienione — Autor nie odpowiada za takie kopie.
 
 4. OGRANICZENIA
@@ -23,7 +23,7 @@ a) sprzedawać, wynajmować ani użyczać Programu odpłatnie, ani pobierać op�
 b) modyfikować, tłumaczyć, dekompilować ani deasemblować Programu — z wyjątkiem przypadków, w których bezwzględnie obowiązujące przepisy prawa wyraźnie na to zezwalają (w szczególności art. 75 ust. 2 ustawy o prawie autorskim i prawach pokrewnych);
 c) rozpowszechniać zmienionych wersji Programu ani programów na nim opartych;
 d) usuwać ani zmieniać oznaczeń autorskich, nazwy Programu i informacji o licencji;
-e) używać nazwy „pCrypt” ani imienia i nazwiska Autora do oznaczania innych programów lub zmienionych wersji ani przedstawiać się jako twórca Programu;
+e) używać nazwy „Lockvale” ani imienia i nazwiska Autora do oznaczania innych programów lub zmienionych wersji ani przedstawiać się jako twórca Programu;
 f) omijać zabezpieczeń Programu, w tym weryfikacji podpisu aktualizacji.
 
 5. SKŁADNIKI ZEWNĘTRZNE
@@ -35,7 +35,7 @@ Do tych czcionek stosuje się wyłącznie licencja SIL OFL 1.1, której pełny t
 6. DANE I BEZPIECZEŃSTWO
 6.1. Program przechowuje dane wyłącznie lokalnie, w pliku sejfu zaszyfrowanym Twoim hasłem głównym. Autor nie ma dostępu do Twoich danych i ich nie gromadzi.
 6.2. Hasła głównego nie da się odzyskać. Jego utrata oznacza utratę dostępu do danych w sejfie. Odpowiadasz za zapamiętanie hasła głównego i za regularne kopie zapasowe pliku sejfu.
-6.3. Program łączy się z internetem wyłącznie w celu sprawdzenia i pobrania aktualizacji z serwisu GitHub (serwis widzi przy tym Twój adres IP i wersję Programu). Można to wyłączyć wpisem aktualizacje=0 w pliku pcrypt.ini.
+6.3. Program łączy się z internetem wyłącznie w celu sprawdzenia i pobrania aktualizacji z serwisu GitHub (serwis widzi przy tym Twój adres IP i wersję Programu). Można to wyłączyć wpisem aktualizacje=0 w pliku lockvale.ini.
 
 7. BRAK GWARANCJI
 Program jest udostępniany nieodpłatnie, w stanie „takim, jaki jest” („AS IS”), bez jakichkolwiek gwarancji, wyraźnych ani dorozumianych, w tym gwarancji przydatności do określonego celu, bezbłędności lub nieprzerwanego działania. W zakresie dozwolonym przez prawo wyłącza się odpowiedzialność z tytułu rękojmi.
@@ -54,16 +54,16 @@ Licencja wygasa automatycznie w razie naruszenia jej warunków. Po wygaśnięciu
 Licencja podlega prawu polskiemu. Wybór prawa nie pozbawia konsumenta ochrony, jaką zapewniają mu bezwzględnie obowiązujące przepisy kraju jego zwykłego pobytu. W razie rozbieżności między wersją polską a angielską rozstrzyga wersja polska.
 
 12. KONTAKT
-Zgłoszenia i pytania: https://github.com/Crisples/pcrypt-releases/issues
+Zgłoszenia i pytania: https://github.com/Crisples/lockvale-releases/issues
 
 
 =====================================================================================================
 
-pCrypt — END USER LICENSE (FREEWARE)
+Lockvale — END USER LICENSE (FREEWARE)
 Copyright © 2026 by Michał Surdyka. All rights reserved.
 
 1. GENERAL
-1.1. This license governs the use of pCrypt (the "Software"), i.e. the file pCrypt.exe together with its updates and documentation.
+1.1. This license governs the use of Lockvale (the "Software"), i.e. the file Lockvale.exe together with its updates and documentation.
 1.2. The author and licensor of the Software is Michał Surdyka (the "Author").
 1.3. By downloading, installing, copying or running the Software you accept this license. If you do not accept it, do not use the Software and delete all copies.
 
@@ -72,8 +72,8 @@ Copyright © 2026 by Michał Surdyka. All rights reserved.
 2.2. The Software is licensed, not sold. All rights not expressly granted remain with the Author.
 
 3. REDISTRIBUTION
-3.1. You may copy and give the unmodified pCrypt.exe file to others free of charge, provided you do not remove its copyright notices and the recipient receives it under this license.
-3.2. The official source of the Software is: https://github.com/Crisples/pcrypt-releases
+3.1. You may copy and give the unmodified Lockvale.exe file to others free of charge, provided you do not remove its copyright notices and the recipient receives it under this license.
+3.2. The official source of the Software is: https://github.com/Crisples/lockvale-releases
 Files obtained elsewhere may have been altered; the Author is not responsible for such copies.
 
 4. RESTRICTIONS
@@ -82,7 +82,7 @@ a) sell, rent or lend the Software for a fee, or charge for making it available;
 b) modify, translate, decompile or disassemble the Software, except where mandatory law expressly permits it;
 c) distribute modified versions of the Software or programs based on it;
 d) remove or alter copyright notices, the Software's name or license information;
-e) use the name "pCrypt" or the Author's name for other programs or modified versions, or present yourself as the author of the Software;
+e) use the name "Lockvale" or the Author's name for other programs or modified versions, or present yourself as the author of the Software;
 f) circumvent the Software's security measures, including update signature verification.
 
 5. THIRD-PARTY COMPONENTS
@@ -94,7 +94,7 @@ These fonts are governed solely by the SIL OFL 1.1, whose full text is available
 6. DATA AND SECURITY
 6.1. The Software stores data only locally, in a vault file encrypted with your master password. The Author has no access to your data and does not collect it.
 6.2. The master password cannot be recovered. Losing it means losing access to the data in the vault. You are responsible for remembering your master password and for regular backups of the vault file.
-6.3. The Software connects to the internet only to check for and download updates from GitHub (which can see your IP address and the Software version). This can be disabled with aktualizacje=0 in pcrypt.ini.
+6.3. The Software connects to the internet only to check for and download updates from GitHub (which can see your IP address and the Software version). This can be disabled with aktualizacje=0 in lockvale.ini.
 
 7. NO WARRANTY
 The Software is provided free of charge "AS IS", without warranty of any kind, express or implied, including fitness for a particular purpose, freedom from errors or uninterrupted operation. To the extent permitted by law, statutory warranty (rękojmia) is excluded.
@@ -113,4 +113,4 @@ This license terminates automatically if you breach its terms. Upon termination 
 This license is governed by Polish law. This choice of law does not deprive consumers of the protection of mandatory provisions of the country of their habitual residence. In case of discrepancies between the Polish and English versions, the Polish version prevails.
 
 12. CONTACT
-Reports and questions: https://github.com/Crisples/pcrypt-releases/issues
+Reports and questions: https://github.com/Crisples/lockvale-releases/issues
